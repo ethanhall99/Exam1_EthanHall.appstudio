@@ -33,14 +33,6 @@
             "BucketList",
             "BucketList.json"
           ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "calculations",
-            "calculations.json"
-          ]
         }
       ],
       "configxml": null,
