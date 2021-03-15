@@ -25,6 +25,22 @@
             "animals",
             "animals.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "BucketList",
+            "BucketList.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculations",
+            "calculations.json"
+          ]
         }
       ],
       "configxml": null,
